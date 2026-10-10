@@ -2,7 +2,7 @@
 
 ## GEN26-A0H-I139
 ### Team Details
-#### **Team Name** <<MATSYA>> <br/>
+#### **Team Name:** MATSYA <br/>
 #### Team Members
 |         Role    |         👤 Name         |   🎓 Roll Number      |     ⚧️ Gender   |    🏫 Department / Programme   |
 |:---------------:|:------------------------|:----------------------:|:---------------:|:-------------------------------:| 
