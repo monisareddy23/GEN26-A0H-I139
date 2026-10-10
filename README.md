@@ -1,13 +1,13 @@
 # Genesis 2026: Ideathon
 
-## GEN26-A0H-IXXX
+## GEN26-A0H-I139
 ### Team Details
-#### **Team Name** <<Insert Your Team Name>> <br/>
+#### **Team Name** <<MATSYA>> <br/>
 #### Team Members
 |         Role    |         👤 Name         |   🎓 Roll Number      |     ⚧️ Gender   |    🏫 Department / Programme   |
 |:---------------:|:------------------------|:----------------------:|:---------------:|:-------------------------------:| 
-|   Team Leader   |                         |                        |                 |                                 |  
-|    Member 2     |                         |                        |                 |                                 |  
-|    Member 3     |                         |                        |                 |                                 |  
-|    Member 4     |                         |                        |                 |                                 |   
+|   Team Leader   | Neil Ganguly                        |                        |                 |                                 |  
+|    Member 2     | Sandeep Kumar S                        |                        |                 |                                 |  
+|    Member 3     | Dinesh Karthik                         |                        |                 |                                 |  
+|    Member 4     | Monisa Reddy                        |                        |                 |                                 |   
 
